@@ -1,17 +1,17 @@
 # station-casinos-test
 
-##Install
+## Install
 - npm install
 
-##Build
+## Build
 Make sure you have webpack and webpack-cli globally installed 
 - npm install -g webpack webpack-cli
 
 Build with:
 - npm run build
 
-##Start Project
+## Start Project
 - npm run start
 
-##Run Tests
+## Run Tests
 - npm run test
