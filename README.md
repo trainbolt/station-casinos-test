@@ -14,4 +14,5 @@ Build with:
 - npm run start
 
 ## Run Tests
-- npm run test
+- npm run test 
+### NOTE: If you want to run tests you must stop the current server as you will get an 'EADDRESSINUSE' error.
